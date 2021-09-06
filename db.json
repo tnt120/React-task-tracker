@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Wyjście do kina",
+      "day": "2 października 12:30",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Zakupy",
+      "day": "5 października 19:00",
+      "reminder": false
+    },
+    {
+      "text": "Kolacja",
+      "day": "7 października 21:30",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
